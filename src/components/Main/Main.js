@@ -20,9 +20,9 @@ const Main = () => {
   }
 
     return (
-        <div className="row">
+        <div className="row container">
 
-            <div className=" col-md-9">
+            <div className=" col-md-10">
               {/* person details show */}
             <div className="row">
                {
@@ -35,7 +35,7 @@ const Main = () => {
             </div>
           </div>
              {/* total amount show */}
-            <div className="col-md-3 ">
+            <div className="col-md-2 ">
                     <Cart cart={cart}></Cart>
             </div>
             
