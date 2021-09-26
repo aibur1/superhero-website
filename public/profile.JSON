@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Benazir Ahmed",
+      "country": "Bangladesh",
+      "img": "https://i.pinimg.com/736x/d1/58/8a/d1588ac7a533ed7f588d863963faee17.jpg",
+      "age": 57,
+      "salary": 20000,
+      "rank": "IGP"
+    },
+    {
+      "id": 2,
+      "name": "Shailesh Thapa Kshetri",
+      "country": "Nepal",
+      "img": "https://www.spotlightnepal.com/media/images/shailesh-thapa-DIG_1.width-1024.jpg",
+      "age": 50,
+      "salary": 15000,
+      "rank": "IGP"
+    },
+    {
+      "id": 3,
+      "name": "C. D. Wickramaratne",
+      "country": "Srilanka",
+      "img": "https://adaderanaenglish.s3.amazonaws.com/1606451280-C-D-Wickramaratne-assumes-duties-as-new-IGP-L.jpg",
+      "age": 55,
+      "salary": 20000,
+      "rank": "IGP"
+    },
+    {
+      "id": 4,
+      "name": "Acryl Sani Abdullah Sani",
+      "country": "Malaysia",
+      "img": "https://www.rmp.gov.my/images/default-source/Galeri-Album-2021/portal-ig-(1).jpg?sfvrsn=0",
+      "age": 63,
+      "salary": 30000,
+      "rank": "IGP"
+    },
+    {
+      "id": 5,
+      "name": "Rao Sardar Ali Khan",
+      "country": "Pakistan",
+      "img": "https://rtiweblog.com/wp-content/uploads/2021/09/WhoisRaoSardarAliKhanIGPunjabPolice.jpg",
+      "age": 58,
+      "salary": 20000,
+      "rank": "IGP"
+    },
+    {
+      "id": 6,
+      "name": " Usman Alkali Baba",
+      "country": "Nijeria",
+      "img": "https://i1.wp.com/media.premiumtimesng.com/wp-content/files/2021/04/EyTNsJ4WYAYfK6L-e1617993434736.jpg?resize=719%2C570&ssl=1",
+      "age": 57,
+      "salary": 20000,
+      "rank": "IGP"
+    },
+    {
+      "id": 7,
+      "name": "Hillary Mutyambai",
+      "country": "Kenya",
+      "img": "https://whownskenya.com/wp-content/uploads/2021/05/IG.jpg",
+      "age": 56,
+      "salary": 30000,
+      "rank": "IGP"
+    },
+    {
+      "id": 8,
+      "name": "James Oppong-Boanuh",
+      "country": "Ghana",
+      "img": "https://cdn.ghanaweb.com/imagelib/pics/267/26797005.295.jpg",
+      "age": 57,
+      "salary":25000,
+      "rank": "IGP"
+    },
+    {
+      "id": 9,
+      "name": " TAN Mei Ling",
+      "country": "Singapor",
+      "img": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/01/ABDUL-HAMID-BADOR-IGP-KETUA-POLIS-NEGARA-FMT-310120-2.jpg",
+      "age": 57,
+      "salary": 20000,
+      "rank": "CP"
+    }
+  ]

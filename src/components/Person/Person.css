@@ -1,0 +1,14 @@
+.image{
+    width: 300px;
+    height: 250px;
+}
+.image-bg{
+    background-color:rgb(252, 249, 249) ;
+    text-align: center
+}
+.btn-regular{
+   background-color: #f5f8f8;
+    border-radius: 5px;
+    padding: 5px 20px;
+    
+}
