@@ -2,7 +2,6 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = (props) => {
-    console.log(props.cart);
     const {cart} = props;
     let name = []
     let total = 0
@@ -14,9 +13,9 @@ const Cart = (props) => {
    
     return (
         <div className="cart" >
-            <h2><i class="fas fa-user"></i> Person added:{props.cart.length}</h2>
-            <h3>Estimate Cost : ${total}</h3>
-            <h4>Name : {name}</h4>
+            <h3><i class="fas fa-user"></i> Person added:{props.cart.length}</h3>
+            <h5>Total Cost : $ {total}</h5>
+            <h6>Name : {name}</h6>
             
         </div>
     );

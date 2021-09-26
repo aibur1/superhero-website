@@ -23,21 +23,18 @@ const Main = () => {
         <div className="row">
 
             <div className=" col-md-9">
-              
+              {/* person details show */}
             <div className="row">
-            {
-                   persons.map(person => <Person
+               {
+                 persons.map(person => <Person
                    key = {person.id}
                    person = {person}
-                   handleAddCart = {handleAddCart}
-                   
+                   handleAddCart = {handleAddCart} 
                    ></Person>)
                 }
-     
             </div>
-           
-            </div>
-
+          </div>
+             {/* total amount show */}
             <div className="col-md-3 ">
                     <Cart cart={cart}></Cart>
             </div>
