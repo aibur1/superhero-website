@@ -18,7 +18,7 @@ const Person = (props) => {
 
           <button className="btn-regular"
            onClick={ () => props.handleAddCart(props.person)}
-          ><i class="fas fa-user-circle"></i> Add to cart</button>
+          ><i class="fas fa-user-circle"></i> Add To Cart</button>
     </div>
          </div>
     </div>
