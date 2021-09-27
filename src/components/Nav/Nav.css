@@ -1,0 +1,15 @@
+.nav-bar{
+    line-height: 70px;
+    background-color: black;
+    
+}
+.nav-bar a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 60px;
+    color: white;
+    cursor:pointer;
+}
+.nav-bar a:hover{
+    background-color:cornflowerblue ;
+}
