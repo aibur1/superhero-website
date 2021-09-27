@@ -19,7 +19,7 @@ const Cart = (props) => {
         <div className="cart" >
             <h3><i class="fas fa-user text-primary"></i> Person added:{props.cart.length}</h3>
             <h5>Total Cost : $ {total}</h5>
-             {/* <h6>Name : {name}</h6>  */}
+             <h6>Name : {name}</h6> 
         </div>
     );
 };
