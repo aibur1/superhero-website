@@ -20,9 +20,9 @@ const Main = () => {
   }
 
     return (
-        <div className="row container">
+        <div className="row container mt-5">
 
-            <div className=" col-md-10">
+            <div className=" col-md-10 ">
               {/* person details show */}
             <div className="row">
                {
